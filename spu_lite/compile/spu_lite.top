@@ -1,0 +1,16 @@
+permute_unit ENTITY
+result_mux ENTITY
+simple_fixed_unit1 ENTITY
+simple_fixed_unit2 ENTITY
+single_precision_unit ENTITY
+result_reg ENTITY
+program_counter ENTITY
+register_file ENTITY
+pipe_reg ENTITY
+instruction_memory ENTITY
+local_store_unit ENTITY
+odd_rf_reg ENTITY
+issue_control_unit ENTITY
+even_rf_reg ENTITY
+forwarding_unit ENTITY
+decode_unit ENTITY

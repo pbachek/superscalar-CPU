@@ -1,0 +1,18 @@
+il $0,10
+il $1,-2
+il $4,-4
+a $2,$0,$4
+a $2,$0,$1
+lnop
+nop
+lnop
+nop
+lnop
+nop
+lnop
+nop
+lnop
+and $3,$2,$0
+ai $1,$1,1
+brnz $1,-13
+stop
